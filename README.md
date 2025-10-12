@@ -24,6 +24,10 @@ Insights and recommendations are provided on the following key points:
 
 ## Data Structure Overview
 
+Data was collected from Maven Analytics where there were a number of dimension tables associated to the sales fact table. Dimension tables include Candy_factories, Candy_Products, Candy_Targets, and USzips.
+The fact table for sales anlaysis is called Candy_Sales and consists of over 10 000 rows. </br>
+
+During a process of data cleaning an additional tbale called Candy_Date was created to improve historical data analysis.
 
 
 ## Executive Summary
