@@ -44,8 +44,7 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 **Sales analysis**: </br>
 Sales have been increasing quite steadily over the years as we start off with a sales value of $1 065 in January 2021 and sales total now at $6 676 in December 2024. This results in us generating a profit of 65.9% since 2021. </br>
-Sales drop every year in the month of February. February is known for being the month of LOVE, and we do not sell products that are heart-shaped, so our product types contribute to the drop in sales. </br>
-Sales usually drops in non-seasonal times such as the months of January, and June to August.
+Sales usually drops in non-seasonal times such as the months of January, and June to August. From the sales trend we see that sales drop in February which is a month popularly known for celebrating love (Valentines Day). As a candy distribution company we do not sell or promote any Valentine's like products or the factories that we distribute for do not have limited edition candies for seasons like Valentines.
 
 **Product analysis**: </br>
 fuioffe;ekfek
