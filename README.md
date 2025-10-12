@@ -51,7 +51,7 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 - Although, we make great sales from the Wonka Bars, but Everlasting Gobstopper generates a greater profit of 80% for our business. The only dilemma is that it is one of the products that do not make much sales
 - Our most popular products ordered by customers are the Wonka Bars with the Milk Cocolate flavour being the most ordered. Our least performing products include Fun Dip, Nerds, Everlasting Grasshopper, Hair Toffee, etc. </br>
 
-<img width="922" height="457" alt="image" src="https://github.com/user-attachments/assets/211466d8-115b-4029-9ecd-eaf0155c4207" /> </br>
+<img width="667" height="422" alt="image" src="https://github.com/user-attachments/assets/66c53db1-4c8f-4ec7-b948-2627abaf7863" /> </br>
 
 
 **Shipment and factory analysis**: </br>
