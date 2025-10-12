@@ -48,7 +48,10 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 **Product analysis**: </br>
 - According to the product table we have made total sales of $141 784 thus far with the Wonka Bar - Triple Dazzle Caramel generating over $28k, accounting for 20% of our sales. </br>
-- Although, we make great sales from the Wonka Bars, but Everlasting Gobstopper generates a greater profit for our business. The only dilemma is that it is one of the products that do not make much sales
+- Although, we make great sales from the Wonka Bars, but Everlasting Gobstopper generates a greater profit of 80% for our business. The only dilemma is that it is one of the products that do not make much sales
+- Our most popular products ordered by customers are the Wonka Bars with the Milk Cocolate flavour being the most ordered. Our least performing products include Fun Dip, Nerds, Everlasting Grasshopper, Hair Toffee, etc. </br>
+<img width="922" height="457" alt="image" src="https://github.com/user-attachments/assets/211466d8-115b-4029-9ecd-eaf0155c4207" />
+
 
 **Shipment and factory analysis**: </br>
 vsgdjdfpoow[p;'
