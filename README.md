@@ -31,10 +31,11 @@ During a process of data cleaning an additional tbale called Candy_Date was crea
 <img width="993" height="541" alt="image" src="https://github.com/user-attachments/assets/efc9abaa-54d9-4cf1-a574-48726df1da7e" />
 
 
-
-
-
 ## Executive Summary
+Since the opening of candy distributor sales have been increasing each year with a current profit percentage of 65.9%. A lot of customers are now opting to order chocolates and sweets from us lately, especially since we peaked in 2022 in the US. It has been evident that most orders are from the US rather than Canada with orders coming in are over 4000% more than Canada. These KPs are dicussed further in the report and opportunity areas are shown as well.
+
+Below is an overview of the Power BI dashboard and additional graphs are included in the report below. 
+<img width="1316" height="740" alt="image" src="https://github.com/user-attachments/assets/91b75807-0872-43d0-bd25-13ad7e8063a7" />
 
 
 ## Insights Deep Dive
