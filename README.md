@@ -54,7 +54,9 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 
 **Shipment and factory analysis**: </br>
-vsgdjdfpoow[p;'
+For factory analysis we notice a trend where factories such as Lots O' Nuts and Wicked Choccy's and our least performing factories are Sugar Shack, The Other Factory, and Secret Factory </br>
+<img width="953" height="517" alt="image" src="https://github.com/user-attachments/assets/cfafe637-d9d0-4467-ada8-fbc39a7b8f66" />
+
 
 ## Recommendations
 
