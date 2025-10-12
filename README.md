@@ -40,13 +40,13 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 ## Insights Deep Dive
 
-**Sales analysis**:
+**Sales analysis**: </br>
 bfiefjemfef;efe;f;'ef
 
-**Product analysis**:
+**Product analysis**: </br>
 fuioffe;ekfek
 
-**Shipment and factory analysis**:
+**Shipment and factory analysis**: </br>
 vsgdjdfpoow[p;'
 
 ## Recommendations
