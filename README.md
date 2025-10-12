@@ -28,6 +28,12 @@ Data was collected from Maven Analytics where there were a number of dimension t
 The fact table for sales anlaysis is called Candy_Sales and consists of over 10 000 rows. </br>
 
 During a process of data cleaning an additional tbale called Candy_Date was created to improve historical data analysis.
+<img width="187" height="47" alt="image" src="https://github.com/user-attachments/assets/1b34496d-6972-4307-948b-297780fb705f" />
+<img width="227" height="97" alt="image" src="https://github.com/user-attachments/assets/fb2ecb6f-a25b-4a3d-abcc-be3f3aa94eca" />
+<img width="243" height="170" alt="image" src="https://github.com/user-attachments/assets/9e640043-2b18-4cfe-a0b8-9da3eb32f2b7" />
+<img width="232" height="73" alt="image" src="https://github.com/user-attachments/assets/2da472a6-5f4c-4fca-8fd0-4cafb6a26ce5" />
+<img width="218" height="385" alt="image" src="https://github.com/user-attachments/assets/a136259e-05fd-4ba4-a7e4-43783393603f" />
+
 
 
 ## Executive Summary
