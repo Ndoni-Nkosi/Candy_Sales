@@ -55,14 +55,14 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 
 **Shipment and factory analysis**: </br>
-- For factory analysis we notice a trend where factories such as Lots O' Nuts and Wicked Choccy's and our least performing factories are Sugar Shack, The Other Factory, and Secret Factory </br>
-- Customers often opt for Standard Class shipping mode folowed by Second class. The least chosen shipping mode is Same Day Delivery
+- Factories such as Lots O' Nuts and Wicked Choccy's sell more product units than lower performing factories such as Sugar Shack, The Other Factory, and Secret Factory </br>
+- Customers often opt for Standard Class shipping mode followed by Second class. The least chosen shipping mode is Same Day Delivery, because Same Day shipping mode is often more costly than Standard Class. This could mean that most of our customers are budget conscious and willing to wait a few days for their order.
 
 <img width="953" height="517" alt="image" src="https://github.com/user-attachments/assets/cfafe637-d9d0-4467-ada8-fbc39a7b8f66" /> </br>
 
 
 ## Recommendations
-- To improve sales in the month of February we should look into selling limited edition candies for seasons like Valentines. This will also help improve Same Day shipping mode.
+- To improve sales in the month of February we should look into selling limited edition candies for seasons like Valentines. This could also help improve Same Day shipping mode.
 - Besides the Wonka Bars that generate high sales, we should try and promote products like Everlasting Gobstopper and Hair Toffee that generate a high profit percentage in sales for US candy distributor. This could improve the units ordered from Secret Factory and The Other Factory.
 - Another option is that the least performing factories such as Secret Factory, The Other Factory, and Sugar Shack should create candies like Wonka Bars that generate good sales and profit. Manufacturing a new Wonka Bar flavour will help boost their units ordered and sales.
 
