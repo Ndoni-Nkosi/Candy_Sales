@@ -62,7 +62,9 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 
 
 ## Recommendations
-
+- To improve sales in the month of February we should look into selling limited edition candies for seasons like Valentines. This will also help improve Same Day shipping mode.
+- Besides the Wonka Bars that generate high sales, we should try and promote products like Everlasting Gobstopper and Hair Toffee that generate a high profit percentage in sales for US candy distributor. This could improve the units ordered from Secret Factory and The Other Factory.
+- Another option is that the least performing factories such as Secret Factory, The Other Factory, and Sugar Shack should create candies like Wonka Bars that generate good sales and profit. Manufacturing a new Wonka Bar flavour will help boost their units ordered and sales.
 
 ## Contact
 Please contact me via email at ndoni.nkosi@yahoo.com
