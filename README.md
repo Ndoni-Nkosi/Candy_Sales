@@ -1,5 +1,5 @@
 # Candy Sales project
-A sales analysis is done on US candy distributor data from Maven Analytics. Synthetic data was collected for the purposes of this analysis.
+A sales analysis is done on US candy distributor data from Maven Analytics consisting of synthetic data.
 
 ## Table of Contents
 
