@@ -47,8 +47,8 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 - Sales usually drops in non-seasonal times such as the months of January, and June to August. From the sales trend we see that sales drop in February which is a month popularly known for celebrating love (Valentines Day). As a candy distribution company we do not sell or promote any Valentine's like products or the factories that we distribute for do not have limited edition candies for seasons like Valentines.
 
 **Product analysis**: </br>
-- According to the product table we have made total sales of $141 784 thus far with the Wonka Bar - Triple Dazzle Caramel generating over $28k, accounting for 20% of our sales. </br>
-- Although, we make great sales from the Wonka Bars, but Everlasting Gobstopper generates a greater profit of 80% for our business. The only dilemma is that it is one of the products that do not make much sales
+- According to the product table we have made $141 784 in total sales, thus far with the Wonka Bar - Triple Dazzle Caramel generating over $28k. This accounts for 20% of our sales. </br>
+- Although, we make great sales from the Wonka Bars, but Everlasting Gobstopper generates a greater profit percentage of 80% for our business. The only dilemma is that it is one of the products that do not make much sales.
 - Our most popular products ordered by customers are the Wonka Bars with the Milk Cocolate flavour being the most ordered. Our least performing products include Fun Dip, Nerds, Everlasting Grasshopper, Hair Toffee, etc. </br>
 
 <img width="667" height="422" alt="image" src="https://github.com/user-attachments/assets/66c53db1-4c8f-4ec7-b948-2627abaf7863" /> </br>
