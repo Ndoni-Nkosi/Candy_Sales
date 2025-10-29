@@ -28,7 +28,8 @@ Data was collected from Maven Analytics, which included several dimension tables
 
 As part of the data cleaning process, an additional table called Candy_Date was created to enhance historical data analysis.</br>
 
-<img width="993" height="541" alt="image" src="https://github.com/user-attachments/assets/efc9abaa-54d9-4cf1-a574-48726df1da7e" />
+<img width="992" height="542" alt="image" src="https://github.com/user-attachments/assets/27a399d4-3f7e-476b-84db-eade11413061" />
+
 
 
 ## Executive Summary
